@@ -1,18 +1,31 @@
+<!DOCTYPE html>
 <html>
-    <head>
-        <link rel="stylesheet" href="style.css" />
-    </head>
-    
-    <body>
-    	<h1><a href="http://vk.com/edik.trott">Edik Trott</a></h1>
-		<p><a href="https://github.com/maybelinot/Bomberman">Bomberman</a></p>
-        <!-- Right below is an image of the sun -->
-        <img id="sun" src="http://goo.gl/dEEssP">
-        
-        <!-- Insert the 'earth' on the next line -->
-        <div id="earth-orbit">
-            <img id='earth' src="http://1.bp.blogspot.com/-dVz_71071d4/Ubp6rVJtJvI/AAAAAAAA6DU/-5I0LPsyL5s/s1600/1.jpg">
+  <head>
+    <meta charset="utf-8">
+    <title>Sequences sunburst</title>
+    <script src="d3.v3.min.js"></script>
+    <link rel="stylesheet" type="text/css"
+      href="https://fonts.googleapis.com/css?family=Open+Sans:400,600">
+    <link rel="stylesheet" type="text/css" href="sequences.css"/>
+  </head>
+  <body>
+    <div id="main">
+      <div id="sequence"></div>
+      <div id="chart">
+        <div id="explanation" style="visibility: hidden;">
+          <span id="percentage"></span><br/>
+          of visits begin with this sequence of pages
         </div>
-        
-    </body>
+      </div>
+    </div>
+    <div id="sidebar">
+      <input type="checkbox" id="togglelegend"> Legend<br/>
+      <div id="legend" style="visibility: hidden;"></div>
+    </div>
+    <script type="text/javascript" src="sequences.js"></script>
+    <script type="text/javascript">
+      // Hack to make this example display correctly in an iframe on bl.ocks.org
+      d3.select(self.frameElement).style("height", "700px");
+  </script>
+  </body>
 </html>
