@@ -9,7 +9,8 @@
 }
 
 .node text {
-  font: 12px sans-serif;
+  font: 14px sans-serif;
+  font-weight:bold;
 }
 
 .link {
@@ -21,7 +22,6 @@ div.tooltip {
     position: absolute;
     text-align: center;
     width: 100px;
-    height: 50px;
     padding: 2px;
     font: 12px sans-serif;
     background: lightsteelblue;
@@ -32,7 +32,9 @@ div.tooltip {
 </style>
 
 <body>
-
+<div style="clear: both; height: 100%; text-align: center">
+    <h1>Druhové třídění rozpočtu města Brno</h1>
+</div>
 <!-- load the d3.js library -->
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
@@ -65,7 +67,7 @@ var stratify = d3.stratify()            // This D3 API method gives cvs file fla
 // Set the dimensions and margins of the diagram
 var margin = {top: 20, right: 90, bottom: 30, left: 90},
     width = 1920 - margin.left - margin.right,
-    height = 900 - margin.top - margin.bottom;
+    height = 830 - margin.top - margin.bottom;
 
 // Define the div for the tooltip
 var div = d3.select("body").append("div")
@@ -145,7 +147,7 @@ function update(source) {
         div.transition()
             .duration(200)
             .style("opacity", .9);
-        div	.html("<p>income:"+d.data.data.in.toString() + "</p><p>outcome:"+d.data.data.out.toString()+"</p>")
+        div	.html("<p>"+d.data.id.substring(d.data.id.lastIndexOf(".")+1)+"</p>")
             .style("left", (d3.event.pageX) + "px")
             .style("top", (d3.event.pageY - 50) + "px");
         })
@@ -166,9 +168,9 @@ function update(source) {
   // Add labels for the nodes
   nodeEnter.append('text')
       .attr("dy", ".35em")
-      .attr("x", -13)
+      .attr("x", -40)
       .attr("text-anchor", "end")
-      .text(function(d) { return d.data.id.substring(d.data.id.lastIndexOf(".") + 1); });
+      .text(function(d) { text = d.data.id.substring(d.data.id.lastIndexOf(".") + 1); return (text.length > 50) ? text.substring(0,50)+"..." : text });
 
   // UPDATE
   var nodeUpdate = nodeEnter.merge(node);
@@ -183,7 +185,7 @@ function update(source) {
 
   // Update the node attributes and style
   nodeUpdate.select('circle.node')
-    .attr('r', 10)
+    .attr('r', function(d){return Math.max(5,Math.abs(d.data.data.in + d.data.data.out)/2432380952*10)})
     .style("fill", function(d) {
         return d._children ? "lightsteelblue" : "#fff";
     })
@@ -221,7 +223,7 @@ function update(source) {
       .attr("class", "link")
       .style("opacity", 0.4)
       .style("stroke", function(d){return (d.data.data.in + d.data.data.out) > 0 ? "green" : "red"})
-      .style("stroke-width", function(d){return Math.abs(d.data.data.in + d.data.data.out)/2432380952*20})
+      .style("stroke-width", function(d){return Math.max(Math.abs(d.data.data.in + d.data.data.out)/2432380952*20,1)})
     //   .attr("marker-start", "url(#end)")
       .attr('d', function(d){
         var o = {x: source.x0, y: source.y0}

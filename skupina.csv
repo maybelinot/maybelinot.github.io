@@ -1,0 +1,176 @@
+,color,id,month,value,year
+0,,God,,,
+0,,God.Daňové příjmy,1,,2016
+0,,"God.Daňové příjmy.Daně z příjmů, zisku a kapitálových výnosů",1,,2016
+0,green,"God.Daňové příjmy.Daně z příjmů, zisku a kapitálových výnosů.Daně z příjmů fyzických osob",1,0.0,2016
+0,red,"God.Daňové příjmy.Daně z příjmů, zisku a kapitálových výnosů.Daně z příjmů fyzických osob",1,205425525.69999996,2016
+0,green,"God.Daňové příjmy.Daně z příjmů, zisku a kapitálových výnosů.Daně z příjmů právnických osob",1,0.0,2016
+0,red,"God.Daňové příjmy.Daně z příjmů, zisku a kapitálových výnosů.Daně z příjmů právnických osob",1,65349622.33,2016
+0,,God.Daňové příjmy.Daně ze zboží a služeb v tuzemsku,1,,2016
+0,green,God.Daňové příjmy.Daně ze zboží a služeb v tuzemsku.Obecné daně ze zboží a služeb v tuzemsku,1,0.0,2016
+0,red,God.Daňové příjmy.Daně ze zboží a služeb v tuzemsku.Obecné daně ze zboží a služeb v tuzemsku,1,302861921.97,2016
+0,,God.Daňové příjmy.Daně a poplatky z vybraných činností a služeb,1,,2016
+0,green,God.Daňové příjmy.Daně a poplatky z vybraných činností a služeb.Poplatky a odvody v oblasti  životního prostředí,1,0.0,2016
+0,red,God.Daňové příjmy.Daně a poplatky z vybraných činností a služeb.Poplatky a odvody v oblasti  životního prostředí,1,56131.0,2016
+0,green,God.Daňové příjmy.Daně a poplatky z vybraných činností a služeb.Místní poplatky z vybraných činností a služeb,1,1500.0,2016
+0,red,God.Daňové příjmy.Daně a poplatky z vybraných činností a služeb.Místní poplatky z vybraných činností a služeb,1,13016048.63,2016
+0,green,God.Daňové příjmy.Daně a poplatky z vybraných činností a služeb.Ostatní odvody z vybraných činností a služeb,1,860000.0,2016
+0,red,God.Daňové příjmy.Daně a poplatky z vybraných činností a služeb.Ostatní odvody z vybraných činností a služeb,1,1090846.5,2016
+0,green,God.Daňové příjmy.Daně a poplatky z vybraných činností a služeb.Správní poplatky,1,1450.0,2016
+0,red,God.Daňové příjmy.Daně a poplatky z vybraných činností a služeb.Správní poplatky,1,7698585.0,2016
+0,,God.Daňové příjmy.Majetkové daně,1,,2016
+0,green,God.Daňové příjmy.Majetkové daně.Daně z majetku,1,0.0,2016
+0,red,God.Daňové příjmy.Majetkové daně.Daně z majetku,1,1784361.64,2016
+0,,God.Nedaňové příjmy,1,,2016
+0,,God.Nedaňové příjmy.Příjmy z vlastní činnosti a odvody přebytků organizací s přímým vztahem,1,,2016
+0,green,God.Nedaňové příjmy.Příjmy z vlastní činnosti a odvody přebytků organizací s přímým vztahem.Příjmy z vlastní činnosti,1,17710.81,2016
+0,red,God.Nedaňové příjmy.Příjmy z vlastní činnosti a odvody přebytků organizací s přímým vztahem.Příjmy z vlastní činnosti,1,9099870.37,2016
+0,green,God.Nedaňové příjmy.Příjmy z vlastní činnosti a odvody přebytků organizací s přímým vztahem.Odvody přebytků organizací s přímým vztahem,1,0.0,2016
+0,red,God.Nedaňové příjmy.Příjmy z vlastní činnosti a odvody přebytků organizací s přímým vztahem.Odvody přebytků organizací s přímým vztahem,1,8465747.0,2016
+0,green,God.Nedaňové příjmy.Příjmy z vlastní činnosti a odvody přebytků organizací s přímým vztahem.Příjmy z pronájmu majetku,1,100933.78,2016
+0,red,God.Nedaňové příjmy.Příjmy z vlastní činnosti a odvody přebytků organizací s přímým vztahem.Příjmy z pronájmu majetku,1,16519501.67,2016
+0,green,God.Nedaňové příjmy.Příjmy z vlastní činnosti a odvody přebytků organizací s přímým vztahem.Výnosy z finančního majetku,1,34722.79,2016
+0,red,God.Nedaňové příjmy.Příjmy z vlastní činnosti a odvody přebytků organizací s přímým vztahem.Výnosy z finančního majetku,1,523672.05,2016
+0,,God.Nedaňové příjmy.Přijaté sankční platby a vratky transferů,1,,2016
+0,green,God.Nedaňové příjmy.Přijaté sankční platby a vratky transferů.Přijaté sankční platby,1,0.0,2016
+0,red,God.Nedaňové příjmy.Přijaté sankční platby a vratky transferů.Přijaté sankční platby,1,5135492.300000001,2016
+0,green,God.Nedaňové příjmy.Přijaté sankční platby a vratky transferů.Přijaté vratky transferů a ostatní příjmy z finančního vypořádání předchozích let,1,50063.47,2016
+0,red,God.Nedaňové příjmy.Přijaté sankční platby a vratky transferů.Přijaté vratky transferů a ostatní příjmy z finančního vypořádání předchozích let,1,1711727.1400000001,2016
+0,,God.Nedaňové příjmy.Příjmy z prodeje nekapitálového majetku a ostatní nedaňové příjmy,1,,2016
+0,green,God.Nedaňové příjmy.Příjmy z prodeje nekapitálového majetku a ostatní nedaňové příjmy.Příjmy z prodeje krátkodobého a drobného dlouhodobého majetku,1,0.0,2016
+0,red,God.Nedaňové příjmy.Příjmy z prodeje nekapitálového majetku a ostatní nedaňové příjmy.Příjmy z prodeje krátkodobého a drobného dlouhodobého majetku,1,96324.0,2016
+0,green,God.Nedaňové příjmy.Příjmy z prodeje nekapitálového majetku a ostatní nedaňové příjmy.Ostatní nedaňové příjmy,1,2382781.4,2016
+0,red,God.Nedaňové příjmy.Příjmy z prodeje nekapitálového majetku a ostatní nedaňové příjmy.Ostatní nedaňové příjmy,1,14414606.519999998,2016
+0,green,God.Nedaňové příjmy.Příjmy z prodeje nekapitálového majetku a ostatní nedaňové příjmy.Příjmy z využívání výhradních práv k přírodním zdrojům,1,0.0,2016
+0,red,God.Nedaňové příjmy.Příjmy z prodeje nekapitálového majetku a ostatní nedaňové příjmy.Příjmy z využívání výhradních práv k přírodním zdrojům,1,0.0,2016
+0,,God.Nedaňové příjmy.Přijaté splátky půjčených prostředků,1,,2016
+0,green,God.Nedaňové příjmy.Přijaté splátky půjčených prostředků.Splátky půjčených prostředků od podnikatelských subjektů,1,0.0,2016
+0,red,God.Nedaňové příjmy.Přijaté splátky půjčených prostředků.Splátky půjčených prostředků od podnikatelských subjektů,1,255491.3,2016
+0,green,God.Nedaňové příjmy.Přijaté splátky půjčených prostředků.Splátky půjčených prostředků od zřízených a podobných subjektů,1,0.0,2016
+0,red,God.Nedaňové příjmy.Přijaté splátky půjčených prostředků.Splátky půjčených prostředků od zřízených a podobných subjektů,1,7152580.0,2016
+0,green,God.Nedaňové příjmy.Přijaté splátky půjčených prostředků.Splátky půjčených prostředků od obyvatelstva,1,1117.0,2016
+0,red,God.Nedaňové příjmy.Přijaté splátky půjčených prostředků.Splátky půjčených prostředků od obyvatelstva,1,802726.4,2016
+0,,God.Kapitálové příjmy,1,,2016
+0,,God.Kapitálové příjmy.Příjmy z prodeje dlouhodobého majetku a ostatní kapitálové příjmy,1,,2016
+0,green,God.Kapitálové příjmy.Příjmy z prodeje dlouhodobého majetku a ostatní kapitálové příjmy.Příjmy z prodeje dlouhodobého majetku (kromě drobného),1,0.0,2016
+0,red,God.Kapitálové příjmy.Příjmy z prodeje dlouhodobého majetku a ostatní kapitálové příjmy.Příjmy z prodeje dlouhodobého majetku (kromě drobného),1,462770716.0,2016
+0,,God.Přijaté transfery,1,,2016
+0,,God.Přijaté transfery.Neinvestiční přijaté transfery,1,,2016
+0,green,God.Přijaté transfery.Neinvestiční přijaté transfery.Neinvestiční přijaté transfery od veřejných rozpočtů ústřední úrovně,1,0.0,2016
+0,red,God.Přijaté transfery.Neinvestiční přijaté transfery.Neinvestiční přijaté transfery od veřejných rozpočtů ústřední úrovně,1,28094605.0,2016
+0,green,God.Přijaté transfery.Neinvestiční přijaté transfery.Neinvestiční přijaté transfery od veřejných rozpočtů územní úrovně,1,0.0,2016
+0,red,God.Přijaté transfery.Neinvestiční přijaté transfery.Neinvestiční přijaté transfery od veřejných rozpočtů územní úrovně,1,12356.21,2016
+0,green,God.Přijaté transfery.Neinvestiční přijaté transfery.Převody z vlastních fondů,1,1070423.7,2016
+0,red,God.Přijaté transfery.Neinvestiční přijaté transfery.Převody z vlastních fondů,1,2599498256.9399996,2016
+0,,God.Běžné výdaje,1,,2016
+0,,God.Běžné výdaje.Platy a podobné a související výdaje,1,,2016
+0,green,God.Běžné výdaje.Platy a podobné a související výdaje.Platy,1,17032037.0,2016
+0,red,God.Běžné výdaje.Platy a podobné a související výdaje.Platy,1,201378.0,2016
+0,green,God.Běžné výdaje.Platy a podobné a související výdaje.Ostatní platby za provedenou práci,1,3263806.0,2016
+0,red,God.Běžné výdaje.Platy a podobné a související výdaje.Ostatní platby za provedenou práci,1,34381.0,2016
+0,green,God.Běžné výdaje.Platy a podobné a související výdaje.Povinné pojistné placené zaměstnavatelem,1,7483715.73,2016
+0,red,God.Běžné výdaje.Platy a podobné a související výdaje.Povinné pojistné placené zaměstnavatelem,1,14992.2,2016
+0,green,God.Běžné výdaje.Platy a podobné a související výdaje.Odměny za užití duševního vlastnictví,1,4114.0,2016
+0,red,God.Běžné výdaje.Platy a podobné a související výdaje.Odměny za užití duševního vlastnictví,1,0.0,2016
+0,,God.Běžné výdaje.Neinvestiční nákupy a související výdaje,1,,2016
+0,green,God.Běžné výdaje.Neinvestiční nákupy a související výdaje.Nákupy materiálu,1,2115248.3099999996,2016
+0,red,God.Běžné výdaje.Neinvestiční nákupy a související výdaje.Nákupy materiálu,1,236.0,2016
+0,green,God.Běžné výdaje.Neinvestiční nákupy a související výdaje.Úroky a ostatní finanční výdaje,1,533394.41,2016
+0,red,God.Běžné výdaje.Neinvestiční nákupy a související výdaje.Úroky a ostatní finanční výdaje,1,0.0,2016
+0,green,"God.Běžné výdaje.Neinvestiční nákupy a související výdaje.Nákup vody, paliv a energie",1,10357019.569999997,2016
+0,red,"God.Běžné výdaje.Neinvestiční nákupy a související výdaje.Nákup vody, paliv a energie",1,539891.35,2016
+0,green,God.Běžné výdaje.Neinvestiční nákupy a související výdaje.Nákup služeb,1,99466309.83999997,2016
+0,red,God.Běžné výdaje.Neinvestiční nákupy a související výdaje.Nákup služeb,1,383936.95999999996,2016
+0,green,God.Běžné výdaje.Neinvestiční nákupy a související výdaje.Ostatní nákupy,1,8192519.969999999,2016
+0,red,God.Běžné výdaje.Neinvestiční nákupy a související výdaje.Ostatní nákupy,1,5205.0,2016
+0,green,"God.Běžné výdaje.Neinvestiční nákupy a související výdaje.Poskytnuté zálohy, jistiny, záruky a vládní úvěry",1,1822811.8,2016
+0,red,"God.Běžné výdaje.Neinvestiční nákupy a související výdaje.Poskytnuté zálohy, jistiny, záruky a vládní úvěry",1,893603.0,2016
+0,green,"God.Běžné výdaje.Neinvestiční nákupy a související výdaje.Výdaje související s neinvestičními nákupy, příspěvky, náhrady a věcné dary",1,720684.6799999999,2016
+0,red,"God.Běžné výdaje.Neinvestiční nákupy a související výdaje.Výdaje související s neinvestičními nákupy, příspěvky, náhrady a věcné dary",1,2000.0,2016
+0,,God.Běžné výdaje.Neinvestiční transfery soukromoprávním subjektům,1,,2016
+0,green,God.Běžné výdaje.Neinvestiční transfery soukromoprávním subjektům.Neinvestiční transfery podnikatelským subjektům,1,145630000.0,2016
+0,red,God.Běžné výdaje.Neinvestiční transfery soukromoprávním subjektům.Neinvestiční transfery podnikatelským subjektům,1,0.0,2016
+0,green,God.Běžné výdaje.Neinvestiční transfery soukromoprávním subjektům.Neinvestiční transfery neziskovým a podobným organizacím,1,11308889.18,2016
+0,red,God.Běžné výdaje.Neinvestiční transfery soukromoprávním subjektům.Neinvestiční transfery neziskovým a podobným organizacím,1,0.0,2016
+0,,God.Běžné výdaje.Neinvestiční transfery veřejnoprávním subjektům a mezi peněžními fondy téhož subjektu,1,,2016
+0,green,God.Běžné výdaje.Neinvestiční transfery veřejnoprávním subjektům a mezi peněžními fondy téhož subjektu.Neinvestiční transfery veřejným rozpočtům ústřední úrovně,1,0.0,2016
+0,red,God.Běžné výdaje.Neinvestiční transfery veřejnoprávním subjektům a mezi peněžními fondy téhož subjektu.Neinvestiční transfery veřejným rozpočtům ústřední úrovně,1,0.0,2016
+0,green,God.Běžné výdaje.Neinvestiční transfery veřejnoprávním subjektům a mezi peněžními fondy téhož subjektu.Neinvestiční transfery veřejným rozpočtům územní úrovně,1,7150000.0,2016
+0,red,God.Běžné výdaje.Neinvestiční transfery veřejnoprávním subjektům a mezi peněžními fondy téhož subjektu.Neinvestiční transfery veřejným rozpočtům územní úrovně,1,0.0,2016
+0,green,God.Běžné výdaje.Neinvestiční transfery veřejnoprávním subjektům a mezi peněžními fondy téhož subjektu.Neinvestiční transfery příspěvkovým a podobným organizacím,1,180902224.0,2016
+0,red,God.Běžné výdaje.Neinvestiční transfery veřejnoprávním subjektům a mezi peněžními fondy téhož subjektu.Neinvestiční transfery příspěvkovým a podobným organizacím,1,0.0,2016
+0,green,God.Běžné výdaje.Neinvestiční transfery veřejnoprávním subjektům a mezi peněžními fondy téhož subjektu.Převody vlastním fondům,1,4112755769.7400007,2016
+0,red,God.Běžné výdaje.Neinvestiční transfery veřejnoprávním subjektům a mezi peněžními fondy téhož subjektu.Převody vlastním fondům,1,1589693751.0,2016
+0,green,God.Běžné výdaje.Neinvestiční transfery veřejnoprávním subjektům a mezi peněžními fondy téhož subjektu.Ostatní neinvestiční transfery jiným veřejným rozpočtům,1,1540009.04,2016
+0,red,God.Běžné výdaje.Neinvestiční transfery veřejnoprávním subjektům a mezi peněžními fondy téhož subjektu.Ostatní neinvestiční transfery jiným veřejným rozpočtům,1,0.0,2016
+0,,God.Běžné výdaje.Neinvestiční transfery obyvatelstvu,1,,2016
+0,green,God.Běžné výdaje.Neinvestiční transfery obyvatelstvu.Náhrady placené obyvatelstvu,1,100950.0,2016
+0,red,God.Běžné výdaje.Neinvestiční transfery obyvatelstvu.Náhrady placené obyvatelstvu,1,3330.0,2016
+0,green,God.Běžné výdaje.Neinvestiční transfery obyvatelstvu.Ostatní neinvestiční transfery obyvatelstvu,1,1585155.95,2016
+0,red,God.Běžné výdaje.Neinvestiční transfery obyvatelstvu.Ostatní neinvestiční transfery obyvatelstvu,1,49160.0,2016
+0,,God.Běžné výdaje.Neinvestiční transfery do zahraničí,1,,2016
+0,green,God.Běžné výdaje.Neinvestiční transfery do zahraničí.Neinvestiční transfery mezinárodním organizacím a nadnárodním orgánům,1,219230.64,2016
+0,red,God.Běžné výdaje.Neinvestiční transfery do zahraničí.Neinvestiční transfery mezinárodním organizacím a nadnárodním orgánům,1,0.0,2016
+0,,God.Běžné výdaje.Neinvestiční půjčené prostředky,1,,2016
+0,green,God.Běžné výdaje.Neinvestiční půjčené prostředky.Neinvestiční půjčené prostředky podnikatelským subjektům,1,0.0,2016
+0,red,God.Běžné výdaje.Neinvestiční půjčené prostředky.Neinvestiční půjčené prostředky podnikatelským subjektům,1,0.0,2016
+0,green,God.Běžné výdaje.Neinvestiční půjčené prostředky.Neinvestiční půjčené prostředky příspěvkovým a podobným organizacím,1,0.0,2016
+0,red,God.Běžné výdaje.Neinvestiční půjčené prostředky.Neinvestiční půjčené prostředky příspěvkovým a podobným organizacím,1,0.0,2016
+0,green,God.Běžné výdaje.Neinvestiční půjčené prostředky.Neinvestiční půjčené prostředky obyvatelstvu,1,0.0,2016
+0,red,God.Běžné výdaje.Neinvestiční půjčené prostředky.Neinvestiční půjčené prostředky obyvatelstvu,1,0.0,2016
+0,,God.Běžné výdaje.Ostatní neinvestiční výdaje,1,,2016
+0,green,God.Běžné výdaje.Ostatní neinvestiční výdaje.Ostatní neinvestiční výdaje,1,37509257.8,2016
+0,red,God.Běžné výdaje.Ostatní neinvestiční výdaje.Ostatní neinvestiční výdaje,1,28772726.83,2016
+0,,God.Kapitálové výdaje,1,,2016
+0,,God.Kapitálové výdaje.Investiční nákupy a související výdaje,1,,2016
+0,green,God.Kapitálové výdaje.Investiční nákupy a související výdaje.Pořízení dlouhodobého nehmotného majetku,1,0.0,2016
+0,red,God.Kapitálové výdaje.Investiční nákupy a související výdaje.Pořízení dlouhodobého nehmotného majetku,1,0.0,2016
+0,green,God.Kapitálové výdaje.Investiční nákupy a související výdaje.Pořízení dlouhodobého hmotného majetku,1,43701541.449999996,2016
+0,red,God.Kapitálové výdaje.Investiční nákupy a související výdaje.Pořízení dlouhodobého hmotného majetku,1,19723.04,2016
+0,green,God.Kapitálové výdaje.Investiční nákupy a související výdaje.Pozemky,1,11513716.0,2016
+0,red,God.Kapitálové výdaje.Investiční nákupy a související výdaje.Pozemky,1,0.0,2016
+0,,God.Kapitálové výdaje.Nákup akcií a majetkových podílů,1,,2016
+0,green,God.Kapitálové výdaje.Nákup akcií a majetkových podílů.Nákup akcií a majetkových podílů,1,0.0,2016
+0,red,God.Kapitálové výdaje.Nákup akcií a majetkových podílů.Nákup akcií a majetkových podílů,1,0.0,2016
+0,,God.Kapitálové výdaje.Investiční transfery,1,,2016
+0,green,God.Kapitálové výdaje.Investiční transfery.Investiční transfery podnikatelským subjektům,1,0.0,2016
+0,red,God.Kapitálové výdaje.Investiční transfery.Investiční transfery podnikatelským subjektům,1,0.0,2016
+0,green,God.Kapitálové výdaje.Investiční transfery.Investiční transfery neziskovým a podobným organizacím,1,0.0,2016
+0,red,God.Kapitálové výdaje.Investiční transfery.Investiční transfery neziskovým a podobným organizacím,1,0.0,2016
+0,green,God.Kapitálové výdaje.Investiční transfery.Investiční transfery příspěvkovým a podobným organizacím,1,2400000.0,2016
+0,red,God.Kapitálové výdaje.Investiční transfery.Investiční transfery příspěvkovým a podobným organizacím,1,0.0,2016
+0,,God.Kapitálové výdaje.Ostatní kapitálové výdaje,1,,2016
+0,green,God.Kapitálové výdaje.Ostatní kapitálové výdaje.Ostatní kapitálové výdaje,1,0.0,2016
+0,red,God.Kapitálové výdaje.Ostatní kapitálové výdaje.Ostatní kapitálové výdaje,1,0.0,2016
+0,,God.Financování,1,,2016
+0,,God.Financování.Financování z tuzemska,1,,2016
+0,green,God.Financování.Financování z tuzemska.Krátkodobé financování,1,3804810395.2799993,2016
+0,red,God.Financování.Financování z tuzemska.Krátkodobé financování,1,3163585447.6300025,2016
+0,,God.Financování.Financování ze zahraničí,1,,2016
+0,green,God.Financování.Financování ze zahraničí.Dlouhodobé financování,1,0.0,2016
+0,red,God.Financování.Financování ze zahraničí.Dlouhodobé financování,1,0.0,2016
+0,,God.Financování.Opravné položky k peněžním operacím,1,,2016
+0,green,God.Financování.Opravné položky k peněžním operacím.Opravné položky k peněžním operacím,1,14282234.0,2016
+0,red,God.Financování.Opravné položky k peněžním operacím.Opravné položky k peněžním operacím,1,135451.96,2016
+0,green,God.Kapitálové příjmy.Příjmy z prodeje dlouhodobého majetku a ostatní kapitálové příjmy.Ostatní kapitálové příjmy,1,0.0,2016
+0,red,God.Kapitálové příjmy.Příjmy z prodeje dlouhodobého majetku a ostatní kapitálové příjmy.Ostatní kapitálové příjmy,1,0.0,2016
+0,green,God.Nedaňové příjmy.Přijaté splátky půjčených prostředků.Splátky půjčených prostředků od obecně prospěšných společností a podobných subjektů,1,0.0,2016
+0,red,God.Nedaňové příjmy.Přijaté splátky půjčených prostředků.Splátky půjčených prostředků od obecně prospěšných společností a podobných subjektů,1,12000.0,2016
+0,green,God.Přijaté transfery.Neinvestiční přijaté transfery.Neinvestiční přijaté transfery ze zahraničí,1,0.0,2016
+0,red,God.Přijaté transfery.Neinvestiční přijaté transfery.Neinvestiční přijaté transfery ze zahraničí,1,0.0,2016
+0,,God.Přijaté transfery.Investiční přijaté transfery,1,,2016
+0,green,God.Přijaté transfery.Investiční přijaté transfery.Investiční přijaté transfery od veřejných rozpočtů územní úrovně,1,0.0,2016
+0,red,God.Přijaté transfery.Investiční přijaté transfery.Investiční přijaté transfery od veřejných rozpočtů územní úrovně,1,0.0,2016
+0,green,God.Přijaté transfery.Investiční přijaté transfery.Investiční přijaté transfery od veřejných rozpočtů ústřední úrovně,1,0.0,2016
+0,red,God.Přijaté transfery.Investiční přijaté transfery.Investiční přijaté transfery od veřejných rozpočtů ústřední úrovně,1,0.0,2016
+0,,God.Kapitálové výdaje.Investiční půjčené prostředky,1,,2016
+0,green,God.Kapitálové výdaje.Investiční půjčené prostředky.Investiční půjčené prostředky obyvatelstvu,1,0.0,2016
+0,red,God.Kapitálové výdaje.Investiční půjčené prostředky.Investiční půjčené prostředky obyvatelstvu,1,0.0,2016
+0,green,God.Běžné výdaje.Neinvestiční transfery do zahraničí.Ostatní neinvestiční transfery do zahraničí,1,0.0,2016
+0,red,God.Běžné výdaje.Neinvestiční transfery do zahraničí.Ostatní neinvestiční transfery do zahraničí,1,0.0,2016
+0,green,God.Kapitálové výdaje.Investiční transfery.Investiční transfery veřejným rozpočtům ústřední úrovně,1,0.0,2016
+0,red,God.Kapitálové výdaje.Investiční transfery.Investiční transfery veřejným rozpočtům ústřední úrovně,1,0.0,2016
+0,green,God.Běžné výdaje.Neinvestiční půjčené prostředky.Neinvestiční půjčené prostředky neziskovým a podobným organizacím,1,0.0,2016
+0,red,God.Běžné výdaje.Neinvestiční půjčené prostředky.Neinvestiční půjčené prostředky neziskovým a podobným organizacím,1,0.0,2016
+0,green,God.Kapitálové výdaje.Investiční půjčené prostředky.Investiční půjčené prostředky podnikatelským subjektům,1,0.0,2016
+0,red,God.Kapitálové výdaje.Investiční půjčené prostředky.Investiční půjčené prostředky podnikatelským subjektům,1,0.0,2016
